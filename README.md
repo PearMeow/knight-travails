@@ -1,19 +1,14 @@
-<h1 align="center">Template</h1>
-Template for projects
+<h1 align="center">Knight Travails</h1>
+A problem involving graphs, JS, and breadth first search.
 
 Features
 --------
-- Some feature
-- A feature, and maybe more to come
-
+- [ ] Finds the shortest way for a knight to get from one square to another in an 8x8 grid with a start and end square.
 
 How to use this project
 -----------------------
-Visit the live version <a href="" rel="noopener noreferrer">here</a>! Or clone the repo and run `npm run build` in the project's root directory, then visit dist/index.html on your favorite browser. (or if the project is just static, open index.html on your favorite browser!)
+Clone the repo and run `node main.js`.
 
 Credits
 -------
-<a href="" rel="noopener noreferrer">Something by some person</a>
-<br>
-<a href="" rel="noopener noreferrer">Another thing by another person</a>
-<br>
+Me and my brain.
