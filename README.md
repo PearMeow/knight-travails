@@ -3,7 +3,7 @@ A problem involving graphs, JS, and breadth first search.
 
 Features
 --------
-- [ ] Finds the shortest way for a knight to get from one square to another in an 8x8 grid with a start and end square.
+- [x] Finds the shortest way for a knight to get from one square to another in an 8x8 grid with a start and end square.
 
 How to use this project
 -----------------------
